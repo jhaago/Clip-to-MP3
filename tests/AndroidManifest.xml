@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.personal.cliptomp3.tests">
+  <uses-sdk android:minSdkVersion="29" android:targetSdkVersion="35"/>
+  <application android:label="Clip MP3 tests"><provider android:name="com.personal.cliptomp3.FixtureProvider" android:authorities="com.personal.cliptomp3.tests.fixtures" android:exported="true"/></application>
+  <instrumentation android:name="com.personal.cliptomp3.TestInstrumentation" android:targetPackage="com.personal.cliptomp3" android:label="MP3 conversion checks"/>
+</manifest>

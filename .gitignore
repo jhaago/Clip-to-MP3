@@ -1,0 +1,9 @@
+.codex/
+tmp/
+.superpowers/
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+dist/

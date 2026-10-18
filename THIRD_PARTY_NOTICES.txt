@@ -1,0 +1,11 @@
+LAME MP3 encoder, version 3.100
+https://lame.sourceforge.io/
+Copyright (c) the LAME project and its contributors; see source file headers.
+GNU Library General Public License, version 2 or later.
+Full license: third_party/lame/COPYING (also bundled in the APK assets).
+Corresponding unmodified source: third_party/lame/.
+Source archive: https://sourceforge.net/projects/lame/files/lame/3.100/lame-3.100.tar.gz
+SHA-256: ddfe36cab873794038ae2c1210557ad34857a4b6bdc515785d1da9e175b1da1e
+
+App native wrapper: app/src/main/cpp/encoder.c.
+The source distribution includes the complete encoder source and rebuild scripts.
